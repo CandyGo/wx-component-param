@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "components/child1/child1",
+    "components/child2/child2"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "组件传参",
+    "navigationBarTextStyle": "black"
+  }
+}

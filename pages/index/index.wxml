@@ -1,0 +1,4 @@
+<view>
+    <view>微信小程序组件传参</view>
+    <componentA />
+</view>

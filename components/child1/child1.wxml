@@ -1,0 +1,11 @@
+
+<view style='padding:20px;border:2px solid red;'>
+<view style='text-align:center;'>我是组件A</view>
+<view>
+   <view>A组件内容：</view>
+   <view>B组件传入参数：{{paramBtoA}}</view>
+   <componentB paramAtoB='我是A向B中传入的参数' bind:myevent="onMyEvent"/>
+</view>
+
+</view>
+

@@ -1,0 +1,6 @@
+<view style='border:2px solid gray;'>
+<view style='text-align:center;'>我是组件B</view>
+<view>A中传入的参数：{{paramAtoB}}</view>
+  <button bindtap='change'>向A中传入参数</button>
+</view>
+

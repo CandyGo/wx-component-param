@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "componentB": "../child2/child2"
+  }
+}
